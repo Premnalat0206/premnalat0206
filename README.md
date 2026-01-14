@@ -1,23 +1,18 @@
-# End-to-End AWS Data Pipeline
+## Hi, I'm Prem 👋
 
-This project implements a scalable data pipeline built on AWS
-using **PySpark and Airflow**.
+I am an entry-level **Data Engineer** with hands-on experience in
+building **AWS-based data pipelines** using **PySpark, Spark SQL, Hive, and Airflow**.
 
-## Pipeline Overview
-- Source systems: S3, Snowflake, Web API
-- PySpark jobs perform extraction and transformations
-- Intermediate and final data stored in AWS S3
-- Orchestration handled using Airflow DAGs
+### Tech Stack
+- Big Data: Spark, PySpark, Hive, Hadoop
+- Cloud: AWS (S3, EMR, EC2, Airflow)
+- Databases: Snowflake, MySQL
+- Programming: SQL, Core Java, Python (basic)
 
-## Tech Stack
-- PySpark, Spark SQL
-- AWS S3, EMR, EC2
-- Apache Airflow
-- Snowflake
+### What I work on
+- Multi-source data ingestion (S3, Snowflake, Web API)
+- PySpark-based ETL and transformations
+- Performance optimization for large datasets
 
-## Project Structure
-jobs/
-airflow/
-configs/
-
-> Note: Sample paths and configurations are used for demonstration.
+### Contact
+- Email: premnalat33@gmail.com
