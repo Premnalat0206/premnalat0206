@@ -1,16 +1,23 @@
-## Hi there 👋
+# End-to-End AWS Data Pipeline
 
-<!--
-**Premnalat0206/premnalat0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This project implements a scalable data pipeline built on AWS
+using **PySpark and Airflow**.
 
-Here are some ideas to get you started:
+## Pipeline Overview
+- Source systems: S3, Snowflake, Web API
+- PySpark jobs perform extraction and transformations
+- Intermediate and final data stored in AWS S3
+- Orchestration handled using Airflow DAGs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- PySpark, Spark SQL
+- AWS S3, EMR, EC2
+- Apache Airflow
+- Snowflake
+
+## Project Structure
+jobs/
+airflow/
+configs/
+
+> Note: Sample paths and configurations are used for demonstration.
