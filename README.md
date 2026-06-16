@@ -5,12 +5,11 @@ building **AWS-based data pipelines** using **PySpark, Spark SQL, Hive, and Airf
 
 ### Tech Stack
 - Big Data: Spark, PySpark, Hive, Hadoop
-- Cloud: AWS (S3, EMR, EC2, Airflow)
-- Databases: Snowflake, MySQL
-- Programming: SQL, Core Java, Python (basic)
+- Databases: MySQL
+- Programming: SQL,Python 
 
 ### What I work on
-- Multi-source data ingestion (S3, Snowflake, Web API)
+- Multi-source data ingestion 
 - PySpark-based ETL and transformations
 - Performance optimization for large datasets
 
